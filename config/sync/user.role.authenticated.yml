@@ -1,4 +1,4 @@
-uuid: cb57df0d-9368-40b2-939d-8f3d23049fe8
+uuid: fb7db531-fa92-4cf6-a760-c645dccc868d
 langcode: en
 status: true
 dependencies: {  }
@@ -17,3 +17,4 @@ permissions:
   - 'search content'
   - 'skip comment approval'
   - 'use text format basic_html'
+  - 'view media'

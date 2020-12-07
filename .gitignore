@@ -64,3 +64,6 @@
 /drush
 /drupal.phar
 /drupal
+
+# Ignore contrib modules
+/web/modules/contrib/*
