@@ -67,3 +67,6 @@
 
 # Ignore contrib modules
 /web/modules/contrib/*
+
+# system files
+*.DS_Store
